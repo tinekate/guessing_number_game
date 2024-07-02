@@ -1,0 +1,15 @@
+C:\Users\Kate\Desktop\New folder\Finals\Finals\bin\Debug\Finals.exe.config
+C:\Users\Kate\Desktop\New folder\Finals\Finals\bin\Debug\Finals.exe
+C:\Users\Kate\Desktop\New folder\Finals\Finals\bin\Debug\Finals.pdb
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.csproj.AssemblyReference.cache
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.Form1.resources
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.Properties.Resources.resources
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.csproj.GenerateResource.cache
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.exe
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.pdb
+C:\Users\Kate\Desktop\New folder\Finals\Finals\bin\Debug\Finals.exe.manifest
+C:\Users\Kate\Desktop\New folder\Finals\Finals\bin\Debug\Finals.application
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.exe.manifest
+C:\Users\Kate\Desktop\New folder\Finals\Finals\obj\Debug\Finals.application
